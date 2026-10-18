@@ -25,7 +25,7 @@ public class Main {
 
 
         System.out.println("Car added to the dealership: " + newCar.getMake() + " " + newCar.getModel());
-        
+        System.out.println("Your car is the best thing i have ever seen");
     }
 
     public static BodyType promptForBodyType(Scanner scanner) {
